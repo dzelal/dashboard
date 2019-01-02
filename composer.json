@@ -10,12 +10,7 @@
             "email": "dzelal@msn.com"
         }
     ],
-    "require": {
-      "php": ">=5.5"
-     },
-"require-dev": {
-    "phpunit/phpunit": "^5.7"
-},
+    "require": { "dzelal/dashboard" : "dev-master" },
     "autoload": {
         "psr-4": {
             "Dzelal\\Dashboard\\": "src/"

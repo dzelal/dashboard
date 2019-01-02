@@ -9,11 +9,11 @@
             "email": "dzelal@msn.com"
         }
     ],
-    "minimum-stability": "dev",
     "require": {},
     "autoload": {
         "psr-4": {
             "Dzelal\\Dashboard\\": "src/"
         }
-    }
+    },
+    "minimum-stability": "dev"
 }

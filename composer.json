@@ -10,13 +10,6 @@
             "email": "dzelal@msn.com"
         }
     ],
-    "repositories": [
-
-        {
-            "type": "vcs",
-            "url": "https://github.com/user/dzelal"
-        }
-    ]
     "require": { "dzelal/dashboard" : "dev-master" },
     "autoload": {
         "psr-4": {

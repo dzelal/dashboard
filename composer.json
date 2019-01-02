@@ -9,6 +9,7 @@
             "email": "dzelal@msn.com"
         }
     ],
+    "minimum-stability": "stable",
     "require": {
         "php": ">=5.5.9",
         "illuminate/support": "~5.1",

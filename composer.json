@@ -11,6 +11,12 @@
         }
     ],
     "require": { "dzelal/dashboard" : "dev-master" },
+    "repositories": [
+    {
+        "type": "git",
+        "url": "https://github.com/dzelal/dashboard/"
+    },
+],
     "autoload": {
         "psr-4": {
             "Dzelal\\Dashboard\\": "src/"

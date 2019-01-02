@@ -3,6 +3,7 @@
     "keywords": ["laravel", "like", "comment", "ajax"],
     "description": "A package to manage Dashboard",
     "license": "MIT",
+    "type": "library",
     "authors": [
         {
             "name": "Dzelal",
